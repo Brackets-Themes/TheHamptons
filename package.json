@@ -1,0 +1,20 @@
+{
+    "title": "The Hamptons",
+    "name": "the-hamptons",
+    "description": "The Hamptons Theme for Brackets.",
+    "version": "0.0.1",
+    "author": "larz (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/TheHamptons",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TheHamptons.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "thehamptons.css",
+        "dark": false
+    }
+}
