@@ -1,7 +1,7 @@
-Brackets 80's Baby Theme
+The Hamptons Theme for Brackets
 ========================
 
-80's Baby theme is very bad for your eyes.
+Tropical wind.
 
 ## HTML
 ![HTML Screenshot](https://github.com/Brackets-Themes/TheHamptons/blob/master/html.png)
