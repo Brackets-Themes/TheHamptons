@@ -1,7 +1,7 @@
 The Hamptons Theme for Brackets
 ========================
 
-Tropical wind.
+Inspired by coconuts, this theme helps you relax. A Brackets original.
 
 ## HTML
 ![HTML Screenshot](https://github.com/Brackets-Themes/TheHamptons/blob/master/screenshots/html.png)
