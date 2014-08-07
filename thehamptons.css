@@ -38,7 +38,7 @@ span.cm-bracket		{ color: #1fa812; }
 }
 
 .CodeMirror-cursor {
-	border-left: 2px solid #2eaf00 !important;
+	border-left: 1px solid #2eaf00 !important;
 }
 
 .CodeMirror-overwrite .CodeMirror-cursor {
@@ -68,7 +68,7 @@ span.cm-bracket		{ color: #1fa812; }
 
 .CodeMirror-matchingtag {
     background: transparent !important;
-	border-bottom: 3px solid #07b100 !important;
+	border-bottom: 1px solid #07b100 !important;
 }
 
 /* Active Line */
@@ -88,4 +88,15 @@ span.cm-bracket		{ color: #1fa812; }
 
 .CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt {
 	color: #000;
+}
+
+/* Non-editor styling */
+
+#image-holder,
+#not-editor {
+    background-color: #ebf1f2;
+}
+
+#image-holder {
+    color: #464646;
 }
